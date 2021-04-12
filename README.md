@@ -2,6 +2,8 @@
 
 I used Python3 and Pyplot to do a small exercise. I chose to draw a butterfly curve and chose the colour values to make it look more beautiful! I also hope to make the butterfly really fly through the form of frame animation (although Python will do this very badly).
 
+You can also watch a short animation on YouTube: https://youtu.be/4BXwFqm3TT4
+
 ![](https://miro.medium.com/max/700/1*8NvxF0cQyJEvhAIzmPrq2w.png)
 
 ``` python
